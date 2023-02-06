@@ -1,0 +1,3 @@
+All tweets posted by a set of 94 US based political media and journalist accounts during the year 2022. 
+
+Data is stored in postgres pg_restore -Fd format.
